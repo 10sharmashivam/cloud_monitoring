@@ -17,7 +17,7 @@
 Clone the code from the repository:
 
 ```
-git clone <repository_url>
+git clone https://github.com/10sharmashivam/cloud_monitoring.git
 ```
 
 ### **Step 2: Install dependencies**
